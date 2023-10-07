@@ -1,0 +1,11 @@
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.csproj.AssemblyReference.cache
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.csproj.SuggestedBindingRedirects.cache
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.HK_Emu.resources
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.Properties.Resources.resources
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.csproj.GenerateResource.cache
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.csproj.CoreCompileInputs.cache
+C:\Users\lukin\source\repos\Spam\Spam\bin\Debug\Spam.exe.config
+C:\Users\lukin\source\repos\Spam\Spam\bin\Debug\Spam.exe
+C:\Users\lukin\source\repos\Spam\Spam\bin\Debug\Spam.pdb
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.exe
+C:\Users\lukin\source\repos\Spam\Spam\obj\Debug\Spam.pdb
